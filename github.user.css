@@ -2585,7 +2585,6 @@
   .octicon-repo-forked {
     margin-bottom: 0.1em !important;
   }
-  .octicon-git-pull-request,
   .octicon.merged {
     color: var(--purple) !important;
   }
@@ -2606,7 +2605,8 @@
   }
   .octicon-repo-push,
   .octicon-check,
-  .octicon.open {
+  .octicon.open,
+  .octicon-git-pull-request {
     color: var(--green) !important;
   }
   .octicon-rocket {
